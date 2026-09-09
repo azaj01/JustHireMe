@@ -30,7 +30,7 @@ agreed in writing by Vasudev Siddh / vasu-devs.
 For licensing inquiries, contact:
 
 - Email: siddhvasudev1402@gmail.com
-- Portfolio: https://vasudev.live
+- Portfolio: https://siddhvasudev.com
 - X/Twitter: https://twitter.com/vasu_devs
 
 This file is a plain-language summary. The AGPL-3.0 license text in

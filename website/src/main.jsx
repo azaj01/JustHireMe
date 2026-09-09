@@ -760,7 +760,7 @@ function App() {
           {navItems.map((item) => <a key={item} href={`#${item.toLowerCase().replace(" ", "-")}`}>{item}</a>)}
         </nav>
         <div className="header-actions">
-          <a className="header-link hide-mobile" href="https://vasudev.live"><Icon name="globe" /> <span>Portfolio</span></a>
+          <a className="header-link hide-mobile" href="https://siddhvasudev.com"><Icon name="globe" /> <span>Portfolio</span></a>
           <a className="header-link hide-mobile" href="https://x.com/vasu_devs"><Icon name="xlogo" /> <span>X</span></a>
           <a className="header-link support-link" href={coffeeUrl}><Icon name="coffee" /> <span>Support</span></a>
           <a className="header-link" href={repoUrl}><Icon name="github" /> <span>GitHub</span></a>
@@ -980,7 +980,7 @@ function App() {
             <a className="button secondary" href={repoUrl}><Icon name="github" /> View source</a>
           </div>
           <div className="creator-links" aria-label="Creator links">
-            <a href="https://vasudev.live">vasudev.live</a>
+            <a href="https://siddhvasudev.com">siddhvasudev.com</a>
             <a href="https://x.com/vasu_devs">@vasu_devs</a>
             <a href={coffeeUrl}>Buy me a coffee</a>
           </div>
@@ -994,7 +994,7 @@ function App() {
           <a href="/legal/terms-of-use.html">Terms</a>
           <a href="/legal/privacy-policy.html">Privacy</a>
         </span>
-        <span>By Vasudev - vasudev.live - @vasu_devs - buymeacoffee.com/vasu.devs</span>
+        <span>By Vasudev - siddhvasudev.com - @vasu_devs - buymeacoffee.com/vasu.devs</span>
       </footer>
     </>
   );
